@@ -5,3 +5,4 @@ pnpm dev
 // codegen.ts
 pnpm compile
 pnpm add -D tailwindcss postcss autoprefixer
+touch tsconfig.json
